@@ -36,7 +36,7 @@ Please note that root access is required.
  ```
 **Getting OneShot**
  ```
- git clone https://github.com/Noxashik/wifi_hack_new.git
+ git clone git clone --depth 1 https://github.com/Noxashik/wifi_hack_new.git
  ```
 #### Running
  ```

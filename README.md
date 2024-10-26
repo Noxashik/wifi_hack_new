@@ -40,7 +40,7 @@ Please note that root access is required.
  ```
 #### Running
  ```
- sudo python OneShot/oneshot.py -i wlan0 --iface-down -K
+sudo python wifi_hack_new/oneshot.py -i wlan0 --iface-down -K
  ```
 
 # Usage
